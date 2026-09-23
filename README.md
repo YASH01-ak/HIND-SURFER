@@ -110,18 +110,6 @@ HIND-SURFER/
 
 ---
 
-## 🌐 GitHub Pages
-
-This project can be hosted using **GitHub Pages**.
-
-After uploading the files:
-
-**Repository → Settings → Pages → Deploy from branch → Select `main` → Save**
-
-Your game can then be played directly from the generated GitHub Pages website.
-
----
-
 ## 🎯 Project Purpose
 
 This project is created to:
