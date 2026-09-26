@@ -2,8 +2,6 @@
 
 > **An India-themed endless runner game made for fun, practice, and entertainment.**
 
-🎮 **Play:** https://yash01-ak.github.io/HIND-SURFER/
-
 ---
 
 ## 🎮 About HIND SURFER
